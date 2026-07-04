@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Deepak Kumar 👋
+### Full Stack Developer | Next.js, MERN, TypeScript & MySQL
 
-<!--
-**Deepak9717/Deepak9717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Developer with 2 years of professional experience crafting performant, user-first web experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+* 💻 **Frontend:** Next.js, React.js, TypeScript, Tailwind CSS, Bootstrap.
+* ⚙️ **Backend & Databases:** Node.js, Express.js, PHP, MySQL, MongoDB.
+* 🛠️ **Tools:** Git, Postman, Linux.
+
+---
+
+### 💼 Professional Experience
+
+**Junior Web Developer | SuperHuman Race Pvt. Ltd.** *(Nov 2024 - Present)*
+* Delivered 8+ projects.
+* Managed full software lifecycle from requirements to deployment.
+
+**Frontend Developer Intern | SuperHuman Race Pvt. Ltd.** *(Aug 2024 - Oct 2024)*
+* **Improved page load times by 40%** through structural optimizations.
+* Built responsive UIs and integrated REST APIs.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="Deepak's GitHub Stats" />
+  <img src="https://herokuapp.com" alt="Deepak's GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
+* 💼 **LinkedIn:** [deepak-kumar-a26ba2227](https://linkedin.com/in/deepak-kumar-a26ba2227)
+* 🌐 **Portfolio:** [deepak-portfolio-site.netlify.app](https://deepak-portfolio-site.netlify.app)
