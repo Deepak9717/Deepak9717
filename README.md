@@ -24,15 +24,6 @@ I am a Full Stack Developer with 2 years of professional experience crafting per
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Deepak's GitHub Stats" />
-  <img src="https://herokuapp.com" alt="Deepak's GitHub Streak" />
-</p>
-
----
-
 ### 📫 Connect with Me
 * 💼 **LinkedIn:** [deepak-kumar-a26ba2227](https://linkedin.com/in/deepak-kumar-a26ba2227)
 * 🌐 **Portfolio:** [deepak-portfolio-site.netlify.app](https://deepak-portfolio-site.netlify.app)
